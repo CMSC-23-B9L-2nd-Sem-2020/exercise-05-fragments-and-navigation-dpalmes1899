@@ -49,7 +49,7 @@ class TitleFragment : Fragment() {
             myActivity?.nameText = editText.text.toString()
             view.findNavController().navigate(R.id.action_titleFragment_to_gameFragment)
         }
-        setHasOptionsMenu(true)
+      
 
         return binding.root
     }
