@@ -52,8 +52,48 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameWonFragment.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+            <state relative-caret-position="136">
+              <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_game.xml">
+          <provider selected="true" editor-type-id="android-designer2" />
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="599">
+              <caret line="394" column="60" selection-start-line="394" selection-start-column="60" selection-end-line="394" selection-end-column="60" />
+              <folding>
+                <element signature="e#2254#2271#0" expanded="true" />
+                <element signature="e#2831#2848#0" expanded="true" />
+                <element signature="e#3363#3380#0" expanded="true" />
+                <element signature="e#3896#3913#0" expanded="true" />
+                <element signature="e#4429#4446#0" expanded="true" />
+                <element signature="e#4956#4973#0" expanded="true" />
+                <element signature="e#5492#5509#0" expanded="true" />
+                <element signature="e#6030#6047#0" expanded="true" />
+                <element signature="e#6568#6585#0" expanded="true" />
+                <element signature="e#7106#7123#0" expanded="true" />
+                <element signature="e#7639#7656#0" expanded="true" />
+                <element signature="e#8178#8195#0" expanded="true" />
+                <element signature="e#8719#8736#0" expanded="true" />
+                <element signature="e#9260#9277#0" expanded="true" />
+                <element signature="e#9801#9818#0" expanded="true" />
+                <element signature="e#10335#10352#0" expanded="true" />
+                <element signature="e#10816#10833#0" expanded="true" />
+                <element signature="e#11358#11375#0" expanded="true" />
+                <element signature="e#11900#11917#0" expanded="true" />
+                <element signature="e#12442#12459#0" expanded="true" />
+                <element signature="e#12978#12995#0" expanded="true" />
+                <element signature="e#13518#13535#0" expanded="true" />
+                <element signature="e#14060#14077#0" expanded="true" />
+                <element signature="e#14602#14619#0" expanded="true" />
+                <element signature="e#15144#15161#0" expanded="true" />
+                <element signature="e#15660#15676#0" expanded="true" />
+                <element signature="e#16375#16395#0" expanded="true" />
+                <element signature="e#16425#16440#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,7 +111,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameFragment.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="253">
@@ -119,7 +159,6 @@
         <option value="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_game2.xml" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_game.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/databinding/FragmentTitleBinding.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_game_won.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameWonFragment.kt" />
@@ -130,6 +169,7 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/TitleFragment.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/MainActivity.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameFragment.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_game.xml" />
       </list>
     </option>
   </component>
@@ -375,11 +415,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="782" height="838" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.09695291" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.09597316" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Build Variants" order="4" side_tool="true" />
@@ -466,14 +506,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_game.xml">
-      <provider selected="true" editor-type-id="android-designer2" />
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="366" column="16" selection-start-line="366" selection-start-column="16" selection-end-line="366" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_game_won.xml">
       <provider selected="true" editor-type-id="android-designer2" />
       <provider editor-type-id="text-editor">
@@ -491,13 +523,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="31" column="48" selection-start-line="19" selection-start-column="3" selection-end-line="31" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameWonFragment.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -543,6 +568,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameWonFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_game.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="599">
+          <caret line="394" column="60" selection-start-line="394" selection-start-column="60" selection-end-line="394" selection-end-column="60" />
+          <folding>
+            <element signature="e#2254#2271#0" expanded="true" />
+            <element signature="e#2831#2848#0" expanded="true" />
+            <element signature="e#3363#3380#0" expanded="true" />
+            <element signature="e#3896#3913#0" expanded="true" />
+            <element signature="e#4429#4446#0" expanded="true" />
+            <element signature="e#4956#4973#0" expanded="true" />
+            <element signature="e#5492#5509#0" expanded="true" />
+            <element signature="e#6030#6047#0" expanded="true" />
+            <element signature="e#6568#6585#0" expanded="true" />
+            <element signature="e#7106#7123#0" expanded="true" />
+            <element signature="e#7639#7656#0" expanded="true" />
+            <element signature="e#8178#8195#0" expanded="true" />
+            <element signature="e#8719#8736#0" expanded="true" />
+            <element signature="e#9260#9277#0" expanded="true" />
+            <element signature="e#9801#9818#0" expanded="true" />
+            <element signature="e#10335#10352#0" expanded="true" />
+            <element signature="e#10816#10833#0" expanded="true" />
+            <element signature="e#11358#11375#0" expanded="true" />
+            <element signature="e#11900#11917#0" expanded="true" />
+            <element signature="e#12442#12459#0" expanded="true" />
+            <element signature="e#12978#12995#0" expanded="true" />
+            <element signature="e#13518#13535#0" expanded="true" />
+            <element signature="e#14060#14077#0" expanded="true" />
+            <element signature="e#14602#14619#0" expanded="true" />
+            <element signature="e#15144#15161#0" expanded="true" />
+            <element signature="e#15660#15676#0" expanded="true" />
+            <element signature="e#16375#16395#0" expanded="true" />
+            <element signature="e#16425#16440#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
